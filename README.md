@@ -8,6 +8,6 @@ The service flows as follow:
 3. Each message is written to a file in a system tmp folder
 4. The command "print file.zpl /D:networkaddress" is called
 
-The printer have to be available in the network and shared. 
+The printer has to be available in the network and shared. 
 
 Note: The project is shipped with a PowerApps - canvas app to test it. 
